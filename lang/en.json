@@ -1,0 +1,155 @@
+{
+    "navigation": {
+
+        "home": "Home",
+        "services": "Services",
+        "personal": "Personal",
+        "business": "Business",
+        "contact": "Contact",
+        "join_us": "Join Us Today",
+        "english": "English",
+        "kiswahili": "Kiswahili"
+
+    },
+    "home": {
+
+        "tagline": "Financial solutions to help you ...",
+        "strings": ["Manage your finances", "Get instant loans", "Support a worthy cause", "Grow your business", "Transfer funds easily"],
+        "okoa": "Access goods and services on credit at a tap of a button",
+        "changisha_service": "Crowdsource for initiatives you care about",
+        "voucher": "Financial discipline through locking money using vouchers",
+        "inua_biz_service": "Get loans to fund your business ASAP",
+        "ul_individual": {
+            "one": "Financial discipline by locking your money using vouchers.",
+            "two": "Get goods and services whenever with just a tap of a button.",
+            "three": "Access a platform to create initiatives and get funding for the cause you care about.",
+            "four": "User friendly application."
+        },
+        "ul_business": {
+            "biz_one": "Transparency and accountability of funds.",
+            "biz_two": "Get low interest loans to fund your business.",
+            "biz_three": "Keep track of goods credited to your customers.",
+            "biz_four": "Affordable way of supporting causes by cutting off distribution costs."
+        },
+        "download_our_app": "To make your work easier, Our user-centered developers at Paylend have developed a Web Application, Android Application and USSD on Dial *483*300# for your use. You can access these applications on a computer or mobile phone using your registered email address or phone number."
+
+    },
+    "cta": {
+        "click": "click to sign up",
+        "learn_more": "learn more",
+        "explore": "explore",
+        "download": "Download app",
+        "send": "send",
+        "free": "Get Started For Free",
+        "start": "Start making a difference",
+        "get_started": "Get Started"
+
+    },
+
+    "titles": {
+        "services": "Services",
+        "uvp": "Our Value Proposition",
+        "how_to_use_okoa_services": "How to use Okoa services",
+        "Why_use_Okoa_services": "Why use Okoa services",
+        "discover_changisha": "Discover Changisha for...",
+        "individuals": "Individuals",
+        "organizations": "Organizations",
+        "engage": "Engage your community ",
+        "shopping": "Shopping made easy",
+        "create_voucher": "How to create a Voucher",
+        "how_biz_works": "How Inua Biz works"
+
+
+
+
+    },
+
+    "subtitles": {
+        "for_individuals": "For Individuals",
+        "for_businesses": "For Businesses",
+        "app": "Download our App",
+        "form_title": "Connect with us 🎉",
+        "free_account": "With a free account, you can:",
+        "modern": "Modern problems, modern solutions ",
+        "for_organizations": "For Organizations",
+        "fund": "Fund your business with a smart loan!"
+
+
+    },
+    "contact_section": {
+        "form_paragraph": "Get updates on latest news regarding Paylend",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "email": "Email",
+        "subject": "Subject",
+        "thoughts": "Share your thoughts",
+        "dasboard_link": "Need to access our platform?Here's a link",
+        "point_one": "Get conected with our okoa services and access goods on credit from any registered paylend shop",
+        "point_two": "Buy and gift vouchers from the comfort of your home",
+        "point_three": "Get funding or contribute to an initiative that you care about",
+        "location": ["Park Suites 2nd Floor",
+            "Parklands ",
+            "Nairobi ",
+            "Kenya "
+        ],
+        "phone": "+254110001300",
+        "email_paylend": "care@paylend.africa",
+        "description": "Paylend is a fintech offering Lending services to users. We also offer financial solutions(for businesses and individuals)",
+        "our_office": "Our offices are located at Park Suites, Parklands - Nairobi,Kenya",
+        "copyright": "© Copyright 2022 - Paylend.africa . All Rights Reserved",
+        "products": "Products",
+        "links": "Quick links",
+        "legal": "Legal",
+        "hashtag": "#buildinglocaleconomies",
+        "terms": "Terms of Use",
+        "policy": "Privacy Policy"
+
+    },
+    "okoa_service": {
+        "okoa_tagline": "You buy, we pay",
+        "okoa_description": "Okoa services gives you the financial freedom to access goods and services anytime.  ",
+        "explanation": ["Do you need to buy a kilo of sugar but have no cash?",
+            "Has your child been sent home for not repaying the fee arrears ?",
+            "Don't worry, we’ve got you covered! Okoa services lets you access basic goods and services on credit. Buy now, pay later"
+        ],
+        "step_1": "Step 1",
+        "step_2": "Step 2",
+        "step_3": "Step 3",
+        "step_4": "Step 4",
+        "paragraph_one": " Input prompted details and get signed up",
+        "paragraph_two": " Pick any service you would like to access",
+        "paragraph_three": "Pay a small subscription fee to the owner of the shop",
+        "paragraph_four": "  You are now good to go!"
+
+    },
+    "changisha": {
+        "changisha_tagline": "Trusted fundraising for all of life 's moments",
+        "changisha_description": "Changisha allows you to donate to a cause you care about. You can also create your own initiative andget funding ",
+        "champ": "Become a champion for the things that matter to you",
+        "champ_paragraph": "Bring your audience together for digital activities that will educate, encourage, and motivate your followers to become more involved in your campaign.",
+        "org": "Crowdsource like never before...",
+        "org_paragraph": "Use the strength of your committed group of supporters to raise money and recognition for your cause.",
+        "changisha_explanation": "Bring your audience together for digital activities that will educate, encourage, and motivate your followers to become more involved in your campaign."
+    },
+    "patavoucher": {
+        "voucher_tagline": "Make better financial decisions",
+        "voucher_description": "With pata voucher, you can foster financial discipline by locking your money using vouchers.",
+        "voucher_explanation": "As a paylend user, you can use our platform to buy vouchers, redeemable to any Paylend shop. You can opt to gift someone a voucher by inputing theit phone number. It is that easy!"
+
+    },
+    "inuabiz": {
+        "biz_tagline": "Doing things banks can't",
+        "biz_description": "Access instant loans of upto ksh 200,000 to grow your business.",
+        "voucher_explanation": ["Inua Biz enables business owners to access low interest loans to grow their business, and achieve business sustainability.",
+            "With an easy sign up process, you can start accessing smart loans."
+        ],
+        "1": "To access Inua Biashara, the business owner has to first sign up on Paylend.",
+        "2": "The business owner then registers the business on Paylend and provides the business details.",
+        "3": "He/she can now make an Inua Biashara request.",
+        "4": "The business owner selects a repayment plan of up to 2 months while making the request.",
+        "5": "The business owner will incur interest of 2 - 16% on the principal amount and a late repayment fee of 10% on the outstanding balance.",
+        "6": "Repayments are done through the app.",
+        "7": "The funds are deposited to the business' Paylend account and can be withdrawn to mobile money."
+    }
+
+}

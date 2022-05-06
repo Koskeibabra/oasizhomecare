@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: //http://oasizhomecare.com/
+
+# Sitemaps
+Sitemap: https://oasizhomecare.com/sitemap.xml

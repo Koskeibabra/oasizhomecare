@@ -36,7 +36,7 @@ const FooterCopyright: FunctionComponent = () => {
       <div className="row">
         <div className="col-md-6 text-md-start text-sm-center mb-sm-4">
           <Copyright>
-            © Copyright 2022 - Oasiz Homecare . All Rights Reserved
+            © Copyright 2022 - Oasiz homecare . All Rights Reserved
           </Copyright>
           <div>
     

@@ -128,7 +128,7 @@ const SectionContactus: FunctionComponent = () => {
               <h4>In need of a nurse / caregiver?</h4>
 
         
-              <form action="https://formsubmit.co/babrakoskei@gmail.com" method="POST" className="row g-3">
+              <form action="" method="POST" className="row g-3">
               {/* <form className="row g-3"> */}
               <input type="hidden" name="_captcha" value="false"></input>
               <input type="hidden" name="_next" value="https://www.oasizhomecare.com/#home"></input>
